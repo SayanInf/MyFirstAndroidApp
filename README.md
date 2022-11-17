@@ -4,4 +4,4 @@
 >It selects any random number between the certain range specified by the user.
 
 ## Screeshots
-![App Screenshot]()
+![App Screenshot](https://github.com/SayanInf/MyFirstAndroidApp/blob/main/Screenshots/Randomizer.jpg?raw=true)
